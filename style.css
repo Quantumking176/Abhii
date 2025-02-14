@@ -119,12 +119,15 @@ body {
 
 .love-text {
     font-family: 'LoveFont', sans-serif;
-    font-size: 3rem;
-    color: brown; /* Changed comment to match the actual color */
+    font-size: 2.3rem;
+    color: black; /* Changed comment to match the actual color */
     text-align: center;
     margin-top: 20px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 .highlight-name {
+    color: brown; /* Change this to any color you like */
+}
+.highlight-name1 {
     color: brown; /* Change this to any color you like */
 }
